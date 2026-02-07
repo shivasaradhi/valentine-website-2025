@@ -61,7 +61,7 @@ const CONFIG = {
         backgroundEnd: "#ffccbc",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
         buttonHover: "#fff1c1",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ADD8E6"             // Text color (make sure it's readable!)
+        textColor: "#add8e6"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
